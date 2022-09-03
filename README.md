@@ -17,8 +17,8 @@ characterstics of formal language
 1. use complete sentence  
 2. use modals such as may, could, should, shall, and so on..  
 3. use polite language as  
-  > would you mind  
-  > i am afraid  
+> would you mind  
+> i am afraid  
 4.use formal words like  
   > assistance instead of help  
   > inform instead of tell/say  
@@ -55,7 +55,7 @@ to appear more ploite in request
 > i was wondering if i could came a little late on monday.  
 > actually, that may be rather difficult...  
 
-to suggest an alternative  
++ to suggest an alternative  
 > can we start the meeting at 9 am instead of 8 am  
 > why dont we ask peter?  
 
