@@ -19,6 +19,7 @@ characterstics of formal language
 3. use polite language as  
 > would you mind  
 > i am afraid  
+
 4.use formal words like  
   > assistance instead of help  
   > inform instead of tell/say  
