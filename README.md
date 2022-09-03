@@ -78,4 +78,40 @@ abc
 
 ---
 
+usage of please & kindly
+do not use please at starting like
+- please pass the salt
+instead
+- pass the salt please
+- could you pass the salt, please?
+- you may like to investigate the matter
+- i would appreciate on immediate reply  
+
+kindly generally used only in notices.
+- kindley review the policies.
+
++ problem
+- i am afraid there is slight problem
+
++ we cant do that
+- i am not sure that we can do that
+
++ you told me that you will den the report
+- i understand that you will send the report
+
++ you should ask your PL
+- wouldn't it be better to ask your PL?
+
++ i want your feedback on this
+- i would like your feedback on this report.
+
+use positive tone
+say what can be done instead what cannot
+
+i cant come on wednesday
+instead
+- monday would be more convinient
+
+positive point
+
 
